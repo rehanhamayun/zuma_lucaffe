@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598910190525",
+    "project_id": "lucaffe-egypt",
+    "storage_bucket": "lucaffe-egypt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598910190525:android:4653f81b6a797080a2c8d4",
+        "android_client_info": {
+          "package_name": "com.lucaffe.egipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598910190525-a476rtmsmmlrp8175qulu6si8g08im51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucaffe.egipt",
+            "certificate_hash": "7c88dd65da777d313bcd2f797c7e0805b5375882"
+          }
+        },
+        {
+          "client_id": "598910190525-rq11o91lmboqm68al1bnjogihuqtlvkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp29Mijw5AZ-rABfO1cKpS-yYqh5kf5fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598910190525-rq11o91lmboqm68al1bnjogihuqtlvkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
